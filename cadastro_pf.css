@@ -1,0 +1,45 @@
+body {
+    background-color: #07afb3;
+
+
+}
+
+.formulario {
+    background-color: #15d4d8;
+    padding: 30px;
+    border-radius: 0.5rem;
+    box-shadow: 3px 5px 8px #cfcccc;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: large;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+input.form-control {
+    font-family: 'Oxanium', cursive;
+    font-size: 18px;
+
+}
+
+.btn-custom {
+    /*  padding: 5px 25px 5px 25px;*/
+    border-radius: 100%;
+}
+
+.btn-success {
+
+    background-color: greenyellow;
+}
+
+.form-control {
+    border-radius: 10px;
+    border-color: black;
+}
